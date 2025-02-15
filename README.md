@@ -44,6 +44,9 @@ product management, shopping cart, and order processing.
         del file 
     git 
         git clone <repo URL>
+        git status 
+        git commit -m "message" 
+        git push
 
     maven 
         mvn clean install 
