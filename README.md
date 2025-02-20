@@ -44,8 +44,10 @@ product management, shopping cart, and order processing.
         del file 
     git 
         git clone <repo URL>
+        git switch -c new-branch-name [create new branch and switch]
+        git branch 
         git status 
-        git commit -m "message" 
+        git commit -m "message"
         git push
 
     maven 
